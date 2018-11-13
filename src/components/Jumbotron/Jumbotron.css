@@ -1,0 +1,13 @@
+.jumbotron {
+    width: 90%;
+    margin-top: 0;
+    margin-bottom: 20px;
+    height: 100px;
+    align-content: center;
+    background-color: white;
+  }
+  
+  .instructions {
+    font-size: 20px;
+    font-family: Tahoma;
+  }
